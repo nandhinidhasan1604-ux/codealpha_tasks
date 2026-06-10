@@ -15,3 +15,8 @@ A Python based language translator that translates English text to Tamil.
 ## Output
 - Translated text saved in output.txt
 - Audio output saved in output.mp3
+
+## Output Screenshots
+![Output 1](ouput_screenshot1.png)
+![Output 2](ouput_screenshot2.png)
+![Output 3](ouput_screenshot3.png)
