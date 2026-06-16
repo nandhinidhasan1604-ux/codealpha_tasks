@@ -10,6 +10,17 @@ answer from a FAQ database using text similarity matching.
 ## 🤖 Live Demo
 🔗 **[Click here to use EduBot Live](https://huggingface.co/spaces/nandhini-k23/edubot-faq-chatbot)**
 
+## 🚀 Project Links
+
+| Platform | Link | Purpose |
+|---|---|---|
+| 🤗 Hugging Face | [Open Live Chatbot](https://huggingface.co/spaces/nandhini-k23/edubot-faq-chatbot) | Permanent live demo — works 24/7 |
+| 📓 Google Colab | [Open Notebook](https://colab.research.google.com/drive/1I4C8U4EHjm5-5S-WpBFUj-39CergpoNb?usp=sharing) | Complete NLP code with outputs |
+
+> 🤗 **Hugging Face** — Chatbot is permanently live. No setup needed. Just open and chat!
+>
+> 📓 **Google Colab** — See complete NLP code step by step with all outputs explained.
+
 ## 🧠 NLP Techniques Used
 - **Tokenization** — Breaking sentences into individual words using NLTK
 - **Stop Word Removal** — Removing common useless words
